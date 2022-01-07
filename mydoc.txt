@@ -1,0 +1,1 @@
+& "C:/Program Files/Python39/python.exe" c:/Users/sturm_dylan/Desktop/eightball/readwritefile.py

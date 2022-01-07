@@ -9,7 +9,9 @@ len(toppings)
 (output) = "We sell 7 different kinds of pizza!"
 [2, "pepperoni"]
 pizza_and_prices = [[2, 'pepperoni'], [6, 'pineapple'], [1, 'cheese'], [3, 'sausage'], [2, 'olives'], [7, 'anchovies'], [2, 'mushrooms']]
+
 my_list.sort()
+
 pizza_and_prices = your_list[1]
 last_item = your_list[-1]
 [2.5, "peppers"] .insert([2, "pepperoni"])
